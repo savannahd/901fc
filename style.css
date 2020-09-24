@@ -1,0 +1,41 @@
+body {
+    background-image: url(https://res.cloudinary.com/cldean11/image/upload/v1567645069/FC901/texture-pattern-wallpaper_qkygh6.jpg);
+    padding-top: 60px;
+    padding-top: 40px;
+}
+
+#header {
+    height: 10px;
+   
+
+}
+
+.nav {
+    text-decoration: none;
+}
+
+.ul {
+    text-decoration: none;
+}
+.figure {
+    width: 10px;
+}
+
+.hero {
+    size: 50px;
+}
+
+main {
+
+}
+
+.record {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.footer {
+    display: inline-block;
+    width: 100%;
+    margin: 0 auto;
+}
